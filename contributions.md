@@ -20,9 +20,13 @@ Point form is fine, but you should use the following format:
 - analysis of Top countries in the highest recorded year of median suicide numbers
 - contributed research and analysis
 
-### {{Name of Partner 1}'s Role
+### {{Sowmya Chenthi Kumar}'s Role
 
-- A few sentences about the main contributions of {Name of Partner 2}
+- Contributed to wrangling the dataset and deciding on the subset with which we are working
+- Analysis of the top 3 countries with the heighest suicide rates and their variation with age and sex and generation
+- Developing insights about the variation of different age groups within the generations
+- Developing understanding about the generation behaviours with their prime time
+- contributed to research and analysis
 
 ## Things that went well
 
