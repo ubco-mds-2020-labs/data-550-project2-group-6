@@ -23,9 +23,9 @@ Point form is fine, but you should use the following format:
 ### {{Sowmya Chenthi Kumar}'s Role
 
 - Contributed to wrangling the dataset and deciding on the subset with which we are working
-- Analysis of the top 3 countries with the heighest suicide rates and their variation with age and sex and generation
+- Analysis of the top 3 countries with the highest suicide rates and their variation with age and sex and generation
 - Developing insights about the variation of different age groups within the generations
-- Developing understanding about the generation behaviours with their prime time
+- Developing understanding about the generation behaviors with their prime time
 - contributed to research and analysis
 
 ## Things that went well
